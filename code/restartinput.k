@@ -16120,7 +16120,7 @@ $HMNAME MATERIALS         3Aluminum_Foam
          3                                                            
 *MAT_RIGID
 $HMNAME MATERIALS         2rigid                                                                           
-         2      78.02.1000E+11       0.3                                        
+         2     780.02.1000E+11       0.3                                        
           
                                                             
 *PART
